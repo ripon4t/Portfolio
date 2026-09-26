@@ -33,9 +33,9 @@
 
 
 ## `PROJECT EXPERIENCE`
-#### [Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies]([https://snmhoque123.github.io/sql.github.io/](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9))
+#### [Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies]([https://ripon4t.github.io/Enterprise/](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9))
 - [ ]	Led the development and testing of ETL processes to move data from heterogeneous systems (MS SQL, flat files) to enterprise data warehouses.
-- [ ]	Created data visualization dashboards using <b>[Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9) and [Tableau](https://public.tableau.com/app/profile/snm.hoque/vizzes) </b>, resulting in a 30% reduction in operational costs.
+- [ ]	Created data visualization dashboards using <b>[Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9) and [Tableau](https://public.tableau.com/app/profile/ripon4t/vizzes) </b>, resulting in a 30% reduction in operational costs.
 - [ ]	Ensured compliance with internal data standards and external audit requirements, improving the accuracy and reliability of reports.
 - [ ] **Tools Used**: SSMS, SSIS, SSAS, Python, SAS, Google BigQuery, Power BI
 
@@ -51,12 +51,12 @@
 - [ ] Utilized machine learning algorithms to forecast forest fires in the Alberta region.
 - [ ] **Tools Used**: SQL, SSMS, SSIS, Power BI, Power Query, Excel, Tableau
 
-#### [Floods and Deforestation Mapping, Mi2LABS](https://snmhoque123.github.io/ml_landslides_app.github.io/)
+#### [Floods and Deforestation Mapping, Mi2LABS](https://ripon4t.github.io/ml_landslides_app.github.io/)
 - [ ] Extracted, manipulated, and analyzed rainfall, type of soil, terrain, and geological data.
 - [ ] Performed data migration from on-premises server to the cloud (AWS S3), leading to significant data storage cost reduction of approximately 70%.
 - [ ] **Tools Used**: Python, SQL, and ArcGIS
 
-#### [Landslides Forecast and Mapping, Mi2LABS](https://snmhoque123.github.io/ml_landslides_app.github.io/)
+#### [Landslides Forecast and Mapping, Mi2LABS](https://ripon4t.github.io/ml_landslides_app.github.io/)
 - [ ] Designed a landslide prediction model by analyzing results using statistical techniques driven by monsoon rain, which led to a $45,000 contract.
 - [ ] Prepared an Android App to view the predicted landslide locations.
 - [ ] **Tools Used**: MATLAB, Python, SQL, and ArcGIS
@@ -79,11 +79,11 @@
 - [x] B.Sc. in Physics, Shah Jalal University of Science & Technology, Bangladesh (2001-2006)
 
 ## `CERTIFICATES`
-- [ ] [Google Business Intelligence Certificate on Coursera (2024)](https://coursera.org/share/a5e1c058eab74699d255d1f07c52ba4f)
-- [ ] [Google Advanced Data Analytics Professional Certificate (2024)](https://coursera.org/verify/professional-cert/7ODDJHXHLFZW)
-- [ ] [IBM Database and SQL for Data Science with Python](https://coursera.org/verify/SN4EFWQP9XTA)
-- [ ] [IBM Data Analysis with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
-- [ ] [IBM Data Visualization with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
+- [ ] [Google Business Intelligence Certificate on Coursera (2024)](https://coursera.org/share/)
+- [ ] [Google Advanced Data Analytics Professional Certificate (2024)](https://coursera.org/verify/)
+- [ ] [IBM Database and SQL for Data Science with Python](https://coursera.org/verify/)
+- [ ] [IBM Data Analysis with Python](https://www.coursera.org/user/)
+- [ ] [IBM Data Visualization with Python](https://www.coursera.org/user/)
 - [ ] Organizational Analysis (Stanford University, Coursera)
 
 ### `VOLUNTEER EXPERIENCE`
