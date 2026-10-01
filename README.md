@@ -1,8 +1,8 @@
-PROFESSIONAL SUMMARY
+#### PROFESSIONAL SUMMARY
 
 Certified Data Professional with over 6 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, Cloud optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
 
-PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
 #### Data Analyst, Deepera Inc., Vancouver, BC. Remote (October 2025 - Present)
 
@@ -13,7 +13,8 @@ Developed and deployed Power BI reports to visualize key business insights and m
 Managed team stakeholder requirements and communications across multiple departments, ensuring alignment between model owners, operations, technology, and business partners.
 Automated data extraction and reporting processes by creating API scripts and optimizing workflows.
 Conducted statistical analysis to validate business hypotheses and worked closely with cross-functional teams to support experimental design.
-Key Achievements:
+
+#### Key Achievements:
 
 Improved the efficiency of reporting processes by optimizing Excel templates and Power BI dashboards, reducing reporting time by 20%.
 Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
@@ -29,9 +30,10 @@ Optimized data pipelines with SQL and Python, ensuring data accuracy and accessi
 Performed statistical analysis to guide data-driven decision-making.
 Developed and tested ETL processes to support business-critical operations and strategic initiatives.
 Utilized Power BI and DAX to create custom dashboards for business reporting, improving data visibility and decision-making capabilities.
-PROJECT EXPERIENCE
 
-Building Fleet and Equipment Retail Analytics Solutions, Deepera Inc.
+#### PROJECT EXPERIENCE
+
+#### Building Fleet and Equipment Retail Analytics Solutions, Deepera Inc.
 
 Led the development and testing of ETL processes to move data from heterogeneous systems (MS SQL, flat files) to enterprise data warehouses.
 Created data visualization dashboards using Power BI and Tableau , resulting in a 30% reduction in operational costs.
@@ -61,7 +63,7 @@ Prepared an Android App to view the predicted landslide locations.
 Tools Used: Python, SQL, and Cloud
 TECHNICAL SKILLS
 
-Database Management
+#### Database Management
 
 MS SQL Server, MySQL, BigQuery
 
@@ -85,12 +87,13 @@ Applications & Software
 
 SolidWorks, AutoCAD, Microsoft Office (Word, Excel, Outlook, Visual Basic)
 
-EDUCATION
+#### EDUCATION
 
 M.Sc. in Physics, Western University, London, ON, Canada
 Ph.D. in ECE, University of Waterloo, Canada
 B.Sc in Physics, Shah Jalal University, Bangladesh. 
-CERTIFICATES
+
+#### CERTIFICATES
 
 Google Business Intelligence Certificate on Coursera (2024)
 Google Advanced Data Analytics Professional Certificate (2024)
@@ -98,12 +101,12 @@ IBM Database and SQL for Data Science with Python
 IBM Data Analysis with Python
 IBM Data Visualization with Python
 Organizational Analysis (Stanford University, Coursera)
-HOBBY
+
+#### HOBBY
 
 In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-CONTACTS
+#### CONTACTS
 
-LinkedIn
 Email: ripon4t@gmail.com
 Address: Vancouver, BC
