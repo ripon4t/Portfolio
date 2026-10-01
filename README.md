@@ -1,4 +1,5 @@
 PROFESSIONAL SUMMARY
+
 Certified Data Professional with over 6 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, Cloud optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
 
 PROFESSIONAL EXPERIENCE
