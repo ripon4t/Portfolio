@@ -93,18 +93,18 @@ SolidWorks, AutoCAD, Microsoft Office (Word, Excel, Outlook, Visual Basic)
 
 #### EDUCATION
 
-Ph.D. in ECE, University of Waterloo, Canada
-M.Sc. in Physics, Western University, London, ON, Canada
+Ph.D. in ECE, University of Waterloo, Canada;
+M.Sc. in Physics, Western University, London, ON, Canada;
 B.Sc in Physics, Shah Jalal University, Bangladesh. 
 
 #### CERTIFICATES
 
-Google Business Intelligence Certificate on Coursera (2024)
-Google Advanced Data Analytics Professional Certificate (2024)
-IBM Database and SQL for Data Science with Python
-IBM Data Analysis with Python
-IBM Data Visualization with Python
-Organizational Analysis (Stanford University, Coursera)
+Google Business Intelligence Certificate on Coursera (2024);
+Google Advanced Data Analytics Professional Certificate (2024);
+IBM Database and SQL for Data Science with Python;
+IBM Data Analysis with Python;
+IBM Data Visualization with Python;
+Organizational Analysis (Stanford University, Coursera).
 
 #### HOBBY
 
