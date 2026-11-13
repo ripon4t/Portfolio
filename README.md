@@ -1,10 +1,10 @@
 #### PROFESSIONAL SUMMARY
 
-Certified Data Professional with over 6 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, Cloud optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
+AI expert with 1 year of AI agentic solution. Data Professional with over 6 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, Cloud optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
 
 #### PROFESSIONAL EXPERIENCE
 
-#### Data Analyst, Deepera Inc., Vancouver, BC. Remote (October 2025 - Present)
+#### Deepera Inc., Vancouver, BC. Remote (October 2025 - Present)
 
 Prepared and analyzed model performance for originations, account management, collections, and regulatory capital.
 Leveraged cloud platforms using Google Cloud and Microsoft Azure to build modern data infrastructure, enabling efficient data pipelines and data management processes for retail models lifecycle modernization.
@@ -63,6 +63,10 @@ Prepared an Android App to view the predicted landslide locations.
 Tools Used: Python, SQL, and Cloud
 TECHNICAL SKILLS
 
+#### AI Agentic Tools
+
+Claude Coworks, ChatGPT Codex.
+
 #### Database Management
 
 MS SQL Server, MySQL, BigQuery
@@ -89,8 +93,8 @@ SolidWorks, AutoCAD, Microsoft Office (Word, Excel, Outlook, Visual Basic)
 
 #### EDUCATION
 
-M.Sc. in Physics, Western University, London, ON, Canada
 Ph.D. in ECE, University of Waterloo, Canada
+M.Sc. in Physics, Western University, London, ON, Canada
 B.Sc in Physics, Shah Jalal University, Bangladesh. 
 
 #### CERTIFICATES
@@ -104,9 +108,9 @@ Organizational Analysis (Stanford University, Coursera)
 
 #### HOBBY
 
-In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+Badminton, Fine arts, Photography, Traveling. 
 
 #### CONTACTS
 
 Email: ripon4t@gmail.com
-Address: Vancouver, BC
+City: Vancouver, BC
